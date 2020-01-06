@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59539" started-at="2019-12-14T22:32:01 GMT" finished-at="2019-12-14T22:33:00 GMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59539" started-at="2019-12-14T22:32:01 GMT" finished-at="2019-12-14T22:33:00 GMT">
+      <class name="com.flighBooking.Tests.FlightBookingHomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.flighBooking.Tests.FlightBookingHomeTest@43814d18]" name="setup" is-config="true" duration-ms="5701" started-at="2019-12-14T22:32:01 GMT" finished-at="2019-12-14T22:32:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="flightsReservationTest()[pri:0, instance:com.flighBooking.Tests.FlightBookingHomeTest@43814d18]" name="flightsReservationTest" duration-ms="53773" started-at="2019-12-14T22:32:06 GMT" finished-at="2019-12-14T22:33:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightsReservationTest -->
+      </class> <!-- com.flighBooking.Tests.FlightBookingHomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
